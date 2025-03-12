@@ -1,1 +1,1 @@
-# .github
+# ViiVAI Labs & Studio
